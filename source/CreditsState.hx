@@ -14,7 +14,7 @@ import flixel.util.FlxColor;
 import flixel.tweens.FlxTween;
 import flixel.tweens.FlxEase;
 #if MODS_ALLOWED
-import sys.FileSystem;
+import sys.FileSy
 import sys.io.File;
 #end
 import lime.utils.Assets;
@@ -81,10 +81,6 @@ class CreditsState extends MusicBeatState
 		#end
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
-                       
-			['Android Port'],
-                        ['NinjaTheGod',    'ninja',                             'Main And Unique Android Porter',
-			[''],
 			['Psych Engine Android'],
 			['Saw (M.A. Jigsaw)',	'saw',				'Main Programmer of Psych Engine Android',					'https://www.youtube.com/channel/UC2Sk7vtPzOvbVzdVTWrribQ', 	'F73838'],
 			[''],
