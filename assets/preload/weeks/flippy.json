@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["tags", "flippy", [215, 255, 167]],
+		["disclosed", "flippy", [215, 255, 167]]
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "PTSD Riddence'd Loser",
+	"weekBefore": "tutorial",
+	"weekName": "Week PTSD",
+	"difficulties": "Hard",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
